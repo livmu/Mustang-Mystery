@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  - NPC_Veronica
+  - NPC_Olivia
+  - NPC_Cindy
+  - NPC_Oumsri
+  - NPC_Navya
+  - music
+  - dontdestroy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Tree
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 1426408163
+    locked: 0
+  - name: Background
+    uniqueID: 4094901099
+    locked: 0
+  - name: Foreground
+    uniqueID: 246009351
+    locked: 0
+  - name: VampireBat
+    uniqueID: 1503832419
+    locked: 0
