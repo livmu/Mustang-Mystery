@@ -1,0 +1,32 @@
+Character 1
+Hair color: Black
+Hangout with: Array of random characters !murderer
+Saw [murderer] with Suhani
+
+Character 2
+Hair color: Black
+Hangout with: Array of random characters !murderer
+Saw [murderer] with Suhani
+
+Character 3
+Hair color: Brunette
+Hangout with: Array of random characters !murderer
+Saw [murderer] with Suhani
+
+Character 4
+Hair color: Blonde
+Hangout with: Array of random characters !murderer
+Saw [murderer] with Suhani
+
+Character 5
+Hair color: Brunette
+Hangout with: Array of random characters !murderer
+Saw [!murderer] with Suhani
+
+
+
+Well, I saw a strand of [hair color] hair on the floor.
+
+I was with [character] at the time.
+
+Not really, but I saw [character] talking a lot with Suhani.
